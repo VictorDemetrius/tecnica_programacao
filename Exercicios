@@ -1,0 +1,37 @@
+
+package Exercicios;
+
+public class Eletrodomestico
+{
+    String tipo;
+    String marca;
+    double valor;
+
+}
+
+public class Carro
+{
+    String marca;
+    String modelo;
+    int capacidade;
+    
+}
+
+public class Dialogo
+{
+    String nome;
+    String email;
+    int idade;
+}
+
+public class Exercicios {
+
+    public static void main(String[] args) {
+            
+        
+        
+        
+        
+    }
+    
+}
